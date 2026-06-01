@@ -1,0 +1,237 @@
+================================================================================
+                    HEALTH INSURANCE POLICY SCHEDULE
+================================================================================
+
+Insurer: Star Health and Allied Insurance Co. Ltd.
+Policy Type: Family Floater Health Insurance
+Policy Name: Star Family Health Optima Plan
+
+================================================================================
+1. POLICY HOLDER DETAILS
+================================================================================
+Name: Priya Sharma
+Date of Birth: 25-Aug-1990
+Age: 35 years
+Gender: Female
+Policyholder ID: NBHI/FAM/89234567
+PAN (Masked): XXXXX7890P
+Aadhaar (Masked): XXXX-XXXX-5678
+Address: 78, Koramangala, Bangalore, Karnataka - 560034, India
+Mobile: +91-9XXXXXXXXX
+Email: priya.sharma@email.com
+Occupation: Marketing Manager
+Annual Income: Rs. 15,00,000
+
+================================================================================
+2. INSURED FAMILY MEMBERS
+================================================================================
+1. Priya Sharma (Self) - Age: 35 years, Female
+2. Vikram Sharma (Spouse) - Age: 37 years, Male
+3. Aarav Sharma (Son) - Age: 8 years, Male
+4. Ananya Sharma (Daughter) - Age: 5 years, Female
+
+================================================================================
+3. POLICY DETAILS
+================================================================================
+Policy Number: FAM-25-89-234567890
+Policy Issue Date: 01-Apr-2023
+Policy Period: 01-Apr-2026 to 31-Mar-2027
+Sum Insured: Rs. 10,00,000 (Family Floater)
+Policy Status: Active
+Zone: Zone I (Karnataka)
+Co-payment: Nil
+Room Rent Limit: 2% of Sum Insured per day (Rs. 20,000/day)
+
+================================================================================
+4. PREMIUM DETAILS
+================================================================================
+Base Premium: Rs. 22,500
+Add-on Covers: Rs. 3,200
+  - Critical Illness Cover: Rs. 2,000
+  - Personal Accident Cover: Rs. 1,200
+Discount (Long-term - 2 years): Rs. 2,570 (10%)
+Sub-total: Rs. 23,130
+GST (18%): Rs. 4,163
+Total Premium Paid: Rs. 27,293
+Payment Mode: Online (Net Banking)
+Payment Date: 25-Mar-2026
+Next Premium Due: 01-Apr-2027
+
+================================================================================
+5. COVERAGE DETAILS
+================================================================================
+✓ In-patient Hospitalization (Minimum 24 hours)
+✓ Pre-hospitalization Expenses (30 days)
+✓ Post-hospitalization Expenses (60 days)
+✓ Day Care Procedures (200+ procedures covered)
+✓ Ambulance Cover (Up to Rs. 2,500 per hospitalization)
+✓ Domiciliary Hospitalization (Up to Rs. 15,000)
+✓ Organ Donor Expenses (Actual expenses)
+✓ AYUSH Treatment (Up to Rs. 25,000)
+✓ Modern Treatment (Robotic Surgery, Immunotherapy)
+✓ Maternity Cover: Rs. 50,000 (Normal), Rs. 75,000 (C-Section)
+✓ New Born Baby Cover: Rs. 50,000 (Included from day 1)
+✓ Vaccination Cover for Children: Rs. 5,000 per year
+
+================================================================================
+6. ILLNESS COVERAGE
+================================================================================
+Covered Illnesses:
+- All major and minor illnesses
+- Cardiovascular diseases
+- Cancer and oncology treatments
+- Kidney and liver diseases
+- Neurological disorders
+- Respiratory diseases including COVID-19
+- Diabetes and endocrine disorders
+- Orthopedic conditions
+- Pediatric illnesses
+- Infectious diseases
+- Mental health conditions (hospitalization)
+
+Pre-Existing Diseases (PED):
+- Vikram: Asthma (Declared) - Waiting period completed
+- Priya: Thyroid disorder (Declared) - Waiting period completed
+
+================================================================================
+7. WAITING PERIODS
+================================================================================
+Initial Waiting Period: 30 days (Completed)
+Pre-Existing Disease (PED): 3 years (Completed - Policy in 4th year)
+Specific Illnesses: 2 years (Completed)
+  - Cataract
+  - Hernia
+  - Hydrocele
+  - Joint replacement
+  - Benign prostatic hypertrophy
+  - Calculus diseases
+  - Piles, Fistula, Sinusitis
+
+Maternity Waiting Period: 9 months (Completed)
+
+================================================================================
+8. NOMINEE DETAILS
+================================================================================
+Primary Nominee: Rajesh Sharma (Father-in-law)
+Relationship: Father-in-law
+Date of Birth: 15-Jun-1960
+Age: 65 years
+Nominee Percentage: 100%
+
+Contingent Nominee: Sunita Sharma (Mother-in-law)
+Relationship: Mother-in-law
+Nominee Percentage: 100% (if primary nominee predeceases)
+
+================================================================================
+9. EXCLUSIONS (STANDARD)
+================================================================================
+✗ Self-inflicted injuries and suicide attempts
+✗ Cosmetic or plastic surgery (unless medically necessary)
+✗ Dental treatment (unless due to accident requiring hospitalization)
+✗ Congenital external diseases
+✗ War, invasion, and nuclear risks
+✗ Experimental or unproven treatments
+✗ Obesity and weight control programs
+✗ Growth hormone therapy
+✗ Hazardous sports injuries
+✗ Substance abuse related conditions
+
+================================================================================
+10. CLAIM HISTORY
+================================================================================
+Year 2023-24:
+- Claim 1: Rs. 35,000 (Aarav - Appendicitis surgery) - Settled
+Year 2024-25:
+- Claim 1: Rs. 28,000 (Vikram - Asthma hospitalization) - Settled
+Year 2025-26:
+- No claims filed
+Current Year (2026-27): Nil
+
+No Claim Bonus Accumulated: 20% (for claim-free year 2025-26)
+
+================================================================================
+11. ADDITIONAL BENEFITS
+================================================================================
+✓ No Claim Bonus: 20% (Cumulative up to 100%)
+✓ Automatic Restoration of Sum Insured (Once per year)
+✓ Health Check-up: Annual for all adults (Age 35+)
+✓ Second Medical Opinion (Domestic and International)
+✓ Worldwide Emergency Cover (45 days)
+✓ Ambulance Cover (Air ambulance included)
+✓ Daily Cash Allowance: Rs. 750 per day (Max 15 days)
+✓ Compassionate Visit: Rs. 5,000 (if child hospitalized)
+✓ Tele-consultation: Unlimited (24x7)
+✓ Home Care Treatment: Up to Rs. 10,000
+
+================================================================================
+12. CRITICAL ILLNESS COVER (ADD-ON)
+================================================================================
+Sum Insured: Rs. 2,00,000 (Lump sum benefit)
+Covered Critical Illnesses (24 conditions):
+- Heart Attack
+- Stroke
+- Cancer
+- Kidney Failure
+- Major Organ Transplant
+- Paralysis
+- Coma
+- Blindness
+- Multiple Sclerosis
+- And 15 other critical conditions
+
+Waiting Period: 90 days (Completed)
+Survival Period: 30 days
+
+================================================================================
+13. PERSONAL ACCIDENT COVER (ADD-ON)
+================================================================================
+Sum Insured: Rs. 5,00,000 per adult
+Coverage:
+- Accidental Death: 100% of Sum Insured
+- Permanent Total Disability: 100% of Sum Insured
+- Permanent Partial Disability: As per scale
+- Temporary Total Disability: Weekly benefit Rs. 1,000 (Max 100 weeks)
+
+================================================================================
+14. DECLARATION
+================================================================================
+I/We hereby declare that:
+1. All information provided in the proposal form is true, complete and accurate
+2. I/We have disclosed all pre-existing diseases, medical conditions, and family medical history
+3. I/We understand and accept the terms, conditions, exclusions, and waiting periods
+4. I/We agree to inform the insurer of any material changes
+5. Any misrepresentation, non-disclosure, or fraud may lead to policy cancellation and claim rejection
+6. I/We authorize the insurer to obtain medical records from any healthcare provider
+
+Policyholder Signature: [Digitally Signed]
+Date: 25-Mar-2026
+
+================================================================================
+15. IMPORTANT NOTES
+================================================================================
+• This is a system-generated policy document for demonstration purposes
+• Please read the policy wordings, terms and conditions carefully
+• For claims assistance: 1800-425-2255 (Toll-free, 24x7)
+• Email: claims@starhealth.in
+• Mobile App: Star Health App (for cashless pre-authorization)
+• Cashless facility available at 14,000+ network hospitals across India
+• Keep this document and health card safe for future reference
+• Renewal notice will be sent 30 days before expiry
+• Grace period for premium payment: 30 days
+
+================================================================================
+16. NETWORK HOSPITALS
+================================================================================
+Major Network Hospitals in Bangalore:
+- Manipal Hospital
+- Apollo Hospital
+- Fortis Hospital
+- Columbia Asia Hospital
+- Narayana Health City
+- And 500+ other hospitals in Bangalore
+
+================================================================================
+Policy Generated On: 01-Apr-2026
+Document Version: 2.0
+Policy Year: 4th Year
+================================================================================

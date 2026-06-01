@@ -1,0 +1,167 @@
+================================================================================
+                    HEALTH INSURANCE POLICY SCHEDULE
+================================================================================
+
+Insurer: HDFC ERGO Health Insurance Ltd.
+Policy Type: Individual Health Insurance (Comprehensive Plan)
+Policy Name: Health Companion Plan
+
+================================================================================
+1. POLICY HOLDER DETAILS
+================================================================================
+Name: Rohan Mehta
+Date of Birth: 12-Dec-1985
+Age: 40 years
+Gender: Male
+Policyholder ID: NBHI/IND/67293458
+PAN (Masked): XXXXX5678K
+Aadhaar (Masked): XXXX-XXXX-2345
+Address: 45, Satellite Road, Ahmedabad, Gujarat - 380015, India
+Mobile: +91-8XXXXXXXXX
+Email: rohan.mehta@email.com
+Occupation: Software Engineer
+Annual Income: Rs. 12,00,000
+
+================================================================================
+2. POLICY DETAILS
+================================================================================
+Policy Number: NB-24-78-123456789
+Policy Issue Date: 15-May-2024
+Policy Period: 15-May-2026 to 14-May-2027
+Sum Insured: Rs. 7,50,000
+Policy Status: Active
+Zone: Zone II (Gujarat)
+Co-payment: Nil
+Room Rent Limit: Single Private AC Room (No Capping)
+
+================================================================================
+3. PREMIUM DETAILS
+================================================================================
+Base Premium: Rs. 14,200
+Add-on Covers: Rs. 1,800
+Discount (No Claim Bonus): Rs. 1,420 (10%)
+Sub-total: Rs. 14,580
+GST (18%): Rs. 2,624
+Total Premium Paid: Rs. 17,204
+Payment Mode: Online (Credit Card)
+Payment Date: 10-May-2026
+Next Premium Due: 15-May-2027
+
+================================================================================
+4. COVERAGE DETAILS
+================================================================================
+✓ In-patient Hospitalization (Minimum 24 hours)
+✓ Pre-hospitalization Expenses (60 days)
+✓ Post-hospitalization Expenses (90 days)
+✓ Day Care Procedures (150+ procedures covered)
+✓ Ambulance Cover (Up to Rs. 2,000 per hospitalization)
+✓ Domiciliary Hospitalization (Up to Rs. 10,000)
+✓ Organ Donor Expenses (Actual expenses)
+✓ AYUSH Treatment
+✓ Modern Treatment (Robotic Surgery, Stem Cell Therapy)
+✓ Maternity Cover: Not Applicable
+✓ New Born Baby Cover: Not Applicable
+
+================================================================================
+5. ILLNESS COVERAGE
+================================================================================
+Covered Illnesses:
+- Cardiovascular diseases
+- Cancer and tumors
+- Kidney diseases
+- Liver diseases
+- Neurological disorders
+- Respiratory diseases
+- Diabetes and complications
+- Orthopedic conditions
+- Gastro-intestinal diseases
+- All other medical conditions (except exclusions)
+
+Pre-Existing Diseases (PED):
+- Hypertension (Declared)
+- High Cholesterol (Declared)
+
+================================================================================
+6. WAITING PERIODS
+================================================================================
+Initial Waiting Period: 30 days (from policy start date)
+Pre-Existing Disease (PED): 3 years
+Specific Illnesses: 2 years
+  - Cataract
+  - Hernia
+  - Hydrocele
+  - Congenital internal diseases
+  - Benign prostatic hypertrophy
+  - Calculus diseases
+  - Piles, Fistula, Sinusitis
+
+Maternity Waiting Period: Not Applicable
+
+================================================================================
+7. NOMINEE DETAILS
+================================================================================
+Nominee Name: Anjali Mehta
+Relationship: Spouse
+Date of Birth: 18-Mar-1987
+Age: 39 years
+Nominee Percentage: 100%
+
+================================================================================
+8. EXCLUSIONS (STANDARD)
+================================================================================
+✗ Self-inflicted injuries
+✗ Cosmetic or plastic surgery (unless medically necessary)
+✗ Dental treatment (unless due to accident)
+✗ Congenital external diseases
+✗ War and nuclear risks
+✗ Experimental or unproven treatments
+✗ Obesity treatment
+✗ Infertility and assisted reproduction
+✗ Vitamin and tonics (unless part of treatment)
+
+================================================================================
+9. CLAIM HISTORY
+================================================================================
+Previous Year Claims: 1 claim
+Claim Amount: Rs. 45,000 (Hospitalization for viral fever)
+Claim Status: Settled
+Current Year Claims: Nil
+
+================================================================================
+10. ADDITIONAL BENEFITS
+================================================================================
+✓ No Claim Bonus: 10% (Cumulative up to 50%)
+✓ Automatic Restoration of Sum Insured
+✓ Health Check-up: Every 4th claim-free year
+✓ Second Medical Opinion
+✓ Worldwide Emergency Cover (30 days)
+✓ Ambulance Cover
+✓ Daily Cash Allowance: Rs. 500 per day (Max 10 days)
+
+================================================================================
+11. DECLARATION
+================================================================================
+I/We hereby declare that:
+1. All information provided in the proposal form is true and complete
+2. I/We have disclosed all pre-existing diseases and medical conditions
+3. I/We understand the terms, conditions, and exclusions of this policy
+4. I/We agree to abide by the policy terms and conditions
+5. Any misrepresentation may lead to policy cancellation
+
+Policyholder Signature: [Digitally Signed]
+Date: 10-May-2026
+
+================================================================================
+12. IMPORTANT NOTES
+================================================================================
+• This is a system-generated policy document for demonstration purposes
+• Please read the policy terms and conditions carefully
+• For claims, contact: 1800-266-0101 (Toll-free)
+• Email: customerservice@hdfcergo.com
+• Keep this document safe for future reference
+• Cashless facility available at 10,000+ network hospitals
+
+================================================================================
+Policy Generated On: 15-May-2026
+Document Version: 1.0
+================================================================================

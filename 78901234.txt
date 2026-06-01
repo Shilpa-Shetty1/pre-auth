@@ -1,0 +1,324 @@
+================================================================================
+                    HEALTH INSURANCE POLICY SCHEDULE
+================================================================================
+
+Insurer: ICICI Lombard General Insurance Company Ltd.
+Policy Type: Critical Illness Insurance
+Policy Name: iProtect Smart - Critical Illness Plan
+
+================================================================================
+1. POLICY HOLDER DETAILS
+================================================================================
+Name: Neha Kapoor
+Date of Birth: 08-Sep-1988
+Age: 37 years
+Gender: Female
+Policyholder ID: NBHI/CRI/78901234
+PAN (Masked): XXXXX9012N
+Aadhaar (Masked): XXXX-XXXX-3456
+Address: 156, Bandra West, Mumbai, Maharashtra - 400050, India
+Mobile: +91-9XXXXXXXXX
+Email: neha.kapoor@email.com
+Occupation: Investment Banker
+Annual Income: Rs. 25,00,000
+
+================================================================================
+2. POLICY DETAILS
+================================================================================
+Policy Number: CRI-26-78-901234567
+Policy Issue Date: 01-Jan-2026
+Policy Period: 01-Jan-2026 to 31-Dec-2026
+Sum Insured: Rs. 25,00,000 (Lump Sum Benefit)
+Policy Status: Active
+Policy Type: Individual Critical Illness (Standalone)
+Zone: Zone I (Maharashtra)
+Benefit Type: Lump Sum Payment on Diagnosis
+
+================================================================================
+3. PREMIUM DETAILS
+================================================================================
+Base Premium: Rs. 18,500
+Add-on Covers: Rs. 4,500
+  - Cancer Care Plus: Rs. 2,500
+  - Cardiac Care Plus: Rs. 2,000
+Discount (Online Purchase): Rs. 1,150 (5%)
+Sub-total: Rs. 21,850
+GST (18%): Rs. 3,933
+Total Premium Paid: Rs. 25,783
+Payment Mode: Online (Credit Card - EMI)
+Payment Date: 28-Dec-2025
+Next Premium Due: 01-Jan-2027
+
+================================================================================
+4. CRITICAL ILLNESSES COVERED (36 CONDITIONS)
+================================================================================
+
+MAJOR CRITICAL ILLNESSES (18):
+1. Cancer of Specified Severity
+2. Heart Attack (Myocardial Infarction)
+3. Stroke (Cerebrovascular Accident)
+4. Coronary Artery Bypass Graft Surgery
+5. Kidney Failure Requiring Dialysis
+6. Major Organ Transplant
+7. Multiple Sclerosis
+8. Paralysis (Permanent and Irreversible)
+9. Coma
+10. Blindness (Permanent and Irreversible)
+11. Deafness (Permanent and Irreversible)
+12. Third Degree Burns
+13. End Stage Liver Failure
+14. End Stage Lung Disease
+15. Aorta Graft Surgery
+16. Heart Valve Surgery
+17. Primary Pulmonary Arterial Hypertension
+18. Aplastic Anemia
+
+MINOR CRITICAL ILLNESSES (18):
+19. Angioplasty (Minimum 2 vessels)
+20. Early Stage Cancer (Carcinoma in Situ)
+21. Benign Brain Tumor
+22. Loss of Speech
+23. Loss of Limbs
+24. Major Head Trauma
+25. Bacterial Meningitis
+26. Encephalitis
+27. Fulminant Viral Hepatitis
+28. Medullary Cystic Disease
+29. Muscular Dystrophy
+30. Motor Neuron Disease
+31. Parkinson's Disease
+32. Alzheimer's Disease
+33. Systemic Lupus Erythematosus
+34. Crohn's Disease
+35. Ulcerative Colitis
+36. Rheumatoid Arthritis (Severe)
+
+================================================================================
+5. BENEFIT STRUCTURE
+================================================================================
+
+Major Critical Illness:
+- Benefit: 100% of Sum Insured (Rs. 25,00,000)
+- Payment: Lump sum on diagnosis
+- Policy Status: Terminates after payment
+
+Minor Critical Illness:
+- Benefit: 25% of Sum Insured (Rs. 6,25,000)
+- Payment: Lump sum on diagnosis
+- Policy Status: Continues with reduced sum insured
+- Maximum: 2 minor illness claims allowed
+
+Cancer Care Plus (Add-on):
+- Additional Benefit: Rs. 5,00,000 for cancer diagnosis
+- Covers: Treatment costs, chemotherapy, radiotherapy
+- Payment: Staged payments based on treatment
+
+Cardiac Care Plus (Add-on):
+- Additional Benefit: Rs. 3,00,000 for cardiac conditions
+- Covers: Heart attack, bypass surgery, valve replacement
+- Payment: Lump sum on diagnosis
+
+================================================================================
+6. WAITING PERIODS
+================================================================================
+Initial Waiting Period: 90 days (Completed)
+Survival Period: 30 days (Must survive 30 days post-diagnosis)
+Pre-Existing Disease: Not Applicable (Standalone Critical Illness)
+
+Specific Waiting Periods:
+- Cancer: 90 days (Completed)
+- Cardiac conditions: 90 days (Completed)
+- All other conditions: 90 days (Completed)
+
+Note: All waiting periods completed as policy started on 01-Jan-2026
+
+================================================================================
+7. COVERAGE DETAILS
+================================================================================
+✓ Lump Sum Benefit on Diagnosis (No hospitalization required)
+✓ Second Medical Opinion (Domestic and International)
+✓ Expert Medical Panel Review
+✓ Diagnostic Test Coverage (Up to Rs. 50,000)
+✓ Worldwide Coverage
+✓ No Sub-limits
+✓ No Co-payment
+✓ Tax Benefits under Section 80D
+✓ Waiver of Premium (In case of total disability)
+✓ Reinstatement Option (For minor illness claims)
+
+================================================================================
+8. EXCLUSIONS
+================================================================================
+✗ Pre-existing critical illnesses (diagnosed before policy start)
+✗ Self-inflicted injuries and suicide attempts
+✗ War, invasion, and nuclear risks
+✗ Participation in hazardous activities
+✗ HIV/AIDS related conditions
+✗ Genetic disorders (unless specifically covered)
+✗ Alcohol or drug abuse related conditions
+✗ Non-compliance with medical advice
+✗ Conditions arising within waiting period
+✗ Intentional self-injury
+
+================================================================================
+9. NOMINEE DETAILS
+================================================================================
+Primary Nominee: Rajiv Kapoor
+Relationship: Spouse
+Date of Birth: 15-Mar-1985
+Age: 41 years
+Nominee Percentage: 100%
+
+Contingent Nominee: Meera Kapoor
+Relationship: Mother
+Date of Birth: 20-Jul-1960
+Age: 65 years
+Nominee Percentage: 100% (if primary nominee predeceases)
+
+================================================================================
+10. CLAIM PROCESS
+================================================================================
+Step 1: Diagnosis by Qualified Medical Practitioner
+Step 2: Intimate insurer within 48 hours of diagnosis
+Step 3: Submit claim form with medical reports
+Step 4: Medical Board Review (if required)
+Step 5: Survival period of 30 days
+Step 6: Claim approval and payment
+
+Required Documents:
+- Duly filled claim form
+- Diagnosis reports from specialist
+- Pathology/Biopsy reports
+- Imaging reports (CT/MRI/PET scan)
+- Hospital discharge summary
+- Doctor's certificate
+- Identity and address proof
+- Bank account details
+
+Claim Settlement Time: 15-30 days from receipt of complete documents
+
+================================================================================
+11. CLAIM HISTORY
+================================================================================
+Current Year (2026): No claims filed
+Policy Status: Active with full sum insured
+
+================================================================================
+12. ADDITIONAL BENEFITS
+================================================================================
+✓ Health Check-up: Annual (Comprehensive package worth Rs. 8,000)
+  - Complete blood count
+  - Lipid profile
+  - Liver function test
+  - Kidney function test
+  - Thyroid profile
+  - Blood sugar (Fasting & PP)
+  - ECG and ECHO
+  - Chest X-ray
+  - Ultrasound abdomen
+  - Cancer markers (CA 125, PSA, CEA)
+  - Stress test
+  - Mammography (for females)
+
+✓ Wellness Program:
+  - Nutrition counseling
+  - Fitness guidance
+  - Stress management
+  - Preventive health tips
+  - Lifestyle disease management
+
+✓ Tele-consultation: Unlimited (24x7)
+✓ Second Medical Opinion: Domestic and International
+✓ Medical Concierge Service
+✓ Emergency Medical Assistance
+✓ Ambulance Service (In case of critical illness)
+
+================================================================================
+13. PREMIUM WAIVER BENEFIT
+================================================================================
+In case of Total Permanent Disability:
+- Future premiums waived
+- Policy continues with full benefits
+- Disability must be certified by medical board
+- Applicable from 2nd policy year onwards
+
+================================================================================
+14. REINSTATEMENT OPTION
+================================================================================
+After Minor Critical Illness Claim:
+- Policy continues with reduced sum insured
+- Option to reinstate full sum insured
+- Additional premium required
+- Medical underwriting may be required
+- Available within 90 days of claim settlement
+
+================================================================================
+15. TAX BENEFITS
+================================================================================
+Premium Paid: Eligible for deduction under Section 80D
+- Self: Up to Rs. 25,000
+- Parents (if covered): Additional Rs. 25,000
+- Senior Citizen Parents: Additional Rs. 50,000
+
+Claim Amount: Tax-free under Section 10(10D)
+
+================================================================================
+16. DECLARATION
+================================================================================
+I hereby declare that:
+1. All information provided in the proposal form is true, complete and accurate
+2. I am in good health and have not been diagnosed with any critical illness
+3. I have disclosed all material facts regarding my health and medical history
+4. I understand that this is a benefit policy and not a reimbursement policy
+5. I understand the waiting periods, survival period, and exclusions
+6. I agree to undergo medical examination if required by the insurer
+7. Any misrepresentation or non-disclosure may lead to claim rejection and policy cancellation
+8. I authorize the insurer to obtain medical records from any healthcare provider
+9. I have read and understood the policy terms and conditions
+
+Policyholder Signature: [Digitally Signed]
+Date: 28-Dec-2025
+
+================================================================================
+17. IMPORTANT NOTES
+================================================================================
+• This is a system-generated policy document for demonstration purposes
+• This is a standalone critical illness policy (not a health insurance policy)
+• Benefit is paid as lump sum on diagnosis, not for treatment costs
+• Please read the policy wordings and list of critical illnesses carefully
+• For claims assistance: 1800-266-7766 (Toll-free, 24x7)
+• Email: criticalillness@icicilombard.com
+• Mobile App: IL Take Care App
+• Keep this document safe for future reference
+• Renewal notice will be sent 30 days before expiry
+• Grace period for premium payment: 30 days
+• Policy can be renewed lifelong (subject to terms)
+
+================================================================================
+18. CONTACT INFORMATION
+================================================================================
+Customer Care: 1800-266-7766 (Toll-free)
+Email: customersupport@icicilombard.com
+Website: www.icicilombard.com
+Registered Office: ICICI Lombard House, 414, Veer Savarkar Marg,
+                   Prabhadevi, Mumbai - 400025
+
+Relationship Manager: Amit Desai
+Mobile: +91-22-XXXXXXXX
+Email: amit.desai@icicilombard.com
+
+================================================================================
+19. GRIEVANCE REDRESSAL
+================================================================================
+Level 1: Customer Care (1800-266-7766)
+Level 2: Grievance Redressal Officer
+         Email: customersupport@icicilombard.com
+Level 3: Insurance Ombudsman
+         Website: www.cioins.co.in
+
+================================================================================
+Policy Generated On: 01-Jan-2026
+Document Version: 1.0
+Policy Year: 1st Year
+IRDAI Registration Number: 115
+================================================================================
