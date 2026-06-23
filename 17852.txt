@@ -1,0 +1,80 @@
+HEALTH INSURANCE POLICY SCHEDULE
+Insurer: Care Health Insurance (Religare)
+Policy Type: Individual Health Insurance
+Policy Name: Care Advantage Plan
+
+1. POLICY HOLDER DETAILS
+Name: Arjun Singh
+Date of Birth: 25-Apr-1989
+Gender: Male
+Policyholder ID: CARE/IND/CA-10031
+Aadhaar (Masked): XXXX-XXXX-6891
+Address: 67, Green Park Extension, New Delhi 110016, India
+Mobile: +91-98110-XXXXX
+Email: arjun.singh@email.com
+
+2. POLICY DETAILS
+Policy Number: CARE-DL-2026-100312789
+Policy Period: 25-Feb-2026 to 24-Feb-2027
+Sum Insured: ₹8,00,000 (Eight Lakhs)
+Policy Status: Active
+Renewal Date: 24-Feb-2027
+Restore Benefit: 100% sum insured restoration twice per year
+
+3. PREMIUM DETAILS
+Annual Premium: ₹14,200.00
+Wellness Discount: -₹710.00
+Net Premium: ₹13,490.00
+GST (18%): ₹2,428.20
+Total Premium Paid: ₹15,918.20
+Payment Mode: Annual
+Payment Date: 20-Feb-2026
+
+4. COVERAGE
+Hospitalization expenses (Room rent up to ₹5,000/day)
+Pre-hospitalization: 60 days, Post-hospitalization: 90 days
+Day care procedures (300+ procedures covered)
+Ambulance charges (up to ₹2,500 per hospitalization)
+Neurology and headache disorder management
+Migraine treatment and preventive care
+MRI and CT scan coverage (no sublimit)
+Home care treatment (up to ₹25,000)
+Annual health check-up with neurology panel
+Unlimited e-consultations with specialists
+Mental health and stress management counseling
+
+5. ILLNESS COVERAGE
+Pre-existing diseases: Covered after 3 years waiting period
+Chronic Migraine: Covered after 2 years waiting period (declared)
+Neurological conditions: Covered after 2 years waiting period
+Critical illnesses: 20 conditions covered after 90 days
+Accidental injuries: Covered from day one
+COVID-19 and pandemic diseases: Covered
+Alternative treatment - Acupuncture for migraine (up to ₹15,000)
+
+6. WAITING PERIOD
+Initial waiting period: 30 days (except accidents)
+Pre-existing diseases: 3 years
+Specific diseases (Migraine, Neurological): 2 years
+Critical illnesses: 90 days
+Mental health conditions: 1 year
+
+7. COPAYMENT & DEDUCTIBLES
+No copayment for network hospitals
+Voluntary deductible: ₹25,000 (opted for 15% premium discount)
+Room rent capping: ₹5,000 per day
+ICU charges: Up to ₹10,000 per day
+Non-network hospitals: 30% copayment
+
+8. BENEFICIARY/NOMINEE
+Kavita Singh (Mother)
+Relationship: Mother
+Date of Birth: 10-Jun-1962
+
+9. DECLARATION
+I hereby declare that all the information provided in this policy document is true and correct to the best of my knowledge. I have disclosed my pre-existing condition of chronic migraine disorder diagnosed in 2024 and understand the waiting period terms. I am currently on topiramate prophylaxis therapy and have disclosed all relevant medical history including triggers and frequency of episodes. I understand that any misrepresentation or concealment of material facts may render the policy void.
+
+This is a system-generated policy document. For any queries, please contact customer care at 1800-102-4488 or visit www.careinsurance.com
+
+Date of Issue: 20-Feb-2026
+Place of Issue: New Delhi

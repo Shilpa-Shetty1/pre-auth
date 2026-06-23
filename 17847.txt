@@ -1,0 +1,66 @@
+HEALTH INSURANCE POLICY SCHEDULE
+Insurer: ICICI Lombard General Insurance
+Policy Type: Individual Health Insurance (Comprehensive Plan)
+Policy Name: Health Advantage Plus
+
+1. POLICY HOLDER DETAILS
+Name: Ananya Das
+Date of Birth: 12-Mar-1993
+Gender: Female
+Policyholder ID: ICICI/IND/HA-10026
+Aadhaar (Masked): XXXX-XXXX-2847
+Address: 45/B, Koramangala 4th Block, Bangalore, Karnataka 560034, India
+Mobile: +91-98450-XXXXX
+Email: ananya.das@email.com
+
+2. POLICY DETAILS
+Policy Number: ICICI-KA-2026-100267845
+Policy Period: 01-Jan-2026 to 31-Dec-2026
+Sum Insured: ₹10,00,000 (Ten Lakhs)
+Policy Status: Active
+Renewal Date: 31-Dec-2026
+
+3. PREMIUM DETAILS
+Annual Premium: ₹18,500.00
+GST (18%): ₹3,330.00
+Total Premium Paid: ₹21,830.00
+Payment Mode: Annual
+Payment Date: 28-Dec-2025
+
+4. COVERAGE
+Hospitalization expenses (Room rent up to ₹5,000/day)
+Pre-hospitalization: 60 days, Post-hospitalization: 90 days
+Day care procedures, Ambulance charges (up to ₹2,000 per hospitalization)
+Domiciliary hospitalization, Organ donor expenses
+AYUSH treatment, Maternity coverage (after 2 years waiting period)
+New born baby coverage (from day one)
+
+5. ILLNESS COVERAGE
+Pre-existing diseases: Covered after 3 years waiting period
+Specific diseases (Thyroid disorders, Diabetes, Hypertension): 2 years waiting period
+Critical illnesses: Covered after 90 days waiting period
+COVID-19 and pandemic diseases: Covered
+
+6. WAITING PERIOD
+Initial waiting period: 30 days (except accidents)
+Pre-existing diseases: 3 years
+Specific diseases: 2 years
+Maternity: 2 years
+
+7. COPAYMENT & DEDUCTIBLES
+No copayment for network hospitals
+Deductible: Nil
+Room rent capping: ₹5,000 per day
+
+8. BENEFICIARY/NOMINEE
+Rajesh Das (Father)
+Relationship: Father
+Date of Birth: 15-Jun-1965
+
+9. DECLARATION
+I hereby declare that all the information provided in this policy document is true and correct to the best of my knowledge. I understand that any misrepresentation or concealment of material facts may render the policy void.
+
+This is a system-generated policy document. For any queries, please contact customer care at 1800-266-7780 or visit www.icicilombard.com
+
+Date of Issue: 28-Dec-2025
+Place of Issue: Bangalore

@@ -1,268 +1,76 @@
-================================================================================
-                    HEALTH INSURANCE POLICY SCHEDULE
-================================================================================
-
-Insurer: Max Bupa Health Insurance Company Ltd.
+HEALTH INSURANCE POLICY SCHEDULE
+Insurer: Star Health and Allied Insurance
 Policy Type: Senior Citizen Health Insurance
-Policy Name: Health Reassure Plan (Senior Citizen)
+Policy Name: Senior Citizens Red Carpet Plan
 
-================================================================================
 1. POLICY HOLDER DETAILS
-================================================================================
-Name: Ramesh Kumar Patel
-Date of Birth: 10-Jan-1955
-Age: 71 years
-Gender: Male
-Policyholder ID: NBHI/SEN/17849
-PAN (Masked): XXXXX3456R
-Aadhaar (Masked): XXXX-XXXX-8901
-Address: 23, Civil Lines, Jaipur, Rajasthan - 302006, India
-Mobile: +91-7XXXXXXXXX
-Email: ramesh.patel@email.com
-Occupation: Retired Government Officer
-Annual Income: Rs. 6,00,000 (Pension)
+Name: Priya Sharma
+Date of Birth: 18-Jul-1973
+Gender: Female
+Policyholder ID: STAR/SEN/RC-10028
+Aadhaar (Masked): XXXX-XXXX-5674
+Address: 23, Banjara Hills, Hyderabad, Telangana 500034, India
+Mobile: +91-98490-XXXXX
+Email: priya.sharma@email.com
 
-================================================================================
 2. POLICY DETAILS
-================================================================================
-Policy Number: SEN-25-45-678912345
-Policy Issue Date: 10-Jun-2020
-Policy Period: 10-Jun-2026 to 09-Jun-2027
-Sum Insured: Rs. 5,00,000
+Policy Number: STAR-TG-2026-100289123
+Policy Period: 01-Feb-2026 to 31-Jan-2027
+Sum Insured: ₹20,00,000 (Twenty Lakhs)
 Policy Status: Active
-Zone: Zone II (Rajasthan)
-Co-payment: 20% (Mandatory for age 71+)
-Room Rent Limit: Single Private AC Room (Max Rs. 5,000/day)
-Sub-limits: As per policy schedule
+Renewal Date: 31-Jan-2027
+No Claim Bonus: 10% (₹2,00,000 additional coverage)
 
-================================================================================
 3. PREMIUM DETAILS
-================================================================================
-Base Premium: Rs. 28,500
-Age Loading (71 years): Rs. 5,700
-Add-on Covers: Rs. 2,500
-  - Domiciliary Hospitalization Enhancement: Rs. 1,500
-  - Consumables Cover: Rs. 1,000
-Discount (Long-term - 3 years): Rs. 3,670 (10%)
-Sub-total: Rs. 33,030
-GST (18%): Rs. 5,945
-Total Premium Paid: Rs. 38,975
-Payment Mode: Cheque
-Payment Date: 01-Jun-2026
-Next Premium Due: 10-Jun-2027
+Base Annual Premium: ₹45,600.00
+No Claim Bonus Discount: -₹4,560.00
+Net Premium: ₹41,040.00
+GST (18%): ₹7,387.20
+Total Premium Paid: ₹48,427.20
+Payment Mode: Annual
+Payment Date: 25-Jan-2026
 
-================================================================================
-4. COVERAGE DETAILS
-================================================================================
-✓ In-patient Hospitalization (Minimum 24 hours)
-✓ Pre-hospitalization Expenses (60 days)
-✓ Post-hospitalization Expenses (90 days)
-✓ Day Care Procedures (180+ procedures covered)
-✓ Ambulance Cover (Up to Rs. 2,000 per hospitalization)
-✓ Domiciliary Hospitalization (Up to Rs. 20,000 with add-on)
-✓ Organ Donor Expenses (Actual expenses)
-✓ AYUSH Treatment (Up to Rs. 50,000)
-✓ Modern Treatment (Robotic Surgery, Immunotherapy, Targeted Therapy)
-✓ Cataract Surgery: Rs. 40,000 per eye (Both eyes covered)
-✓ Health Check-up: Annual (Comprehensive Senior Citizen Package)
-✓ Consumables Cover: Up to Rs. 50,000 (with add-on)
+4. COVERAGE
+Hospitalization expenses (Room rent up to ₹10,000/day)
+Pre-hospitalization: 90 days, Post-hospitalization: 180 days
+Day care procedures (600+ procedures covered)
+Ambulance charges (up to ₹5,000 per hospitalization)
+Cataract surgery (both eyes covered)
+Joint replacement surgery covered
+Cardiac care and stroke management
+Home nursing care (up to ₹10,000 per claim)
+Annual preventive health check-up included
+Ayurvedic and alternative treatment (up to ₹25,000)
 
-================================================================================
 5. ILLNESS COVERAGE
-================================================================================
-Covered Illnesses (Age-specific focus):
-- Cardiovascular diseases (Heart attack, Bypass surgery, Angioplasty)
-- Cancer and oncology treatments
-- Kidney diseases (Dialysis covered)
-- Liver diseases
-- Neurological disorders (Stroke, Parkinson's, Alzheimer's)
-- Respiratory diseases (COPD, Pneumonia)
-- Diabetes and complications (Diabetic foot, Retinopathy)
-- Orthopedic conditions (Joint replacement, Fractures)
-- Cataract and eye diseases
-- Prostate diseases
-- Osteoporosis and related fractures
-- Age-related degenerative diseases
+Pre-existing diseases: Covered after 1 year waiting period (Senior citizen benefit)
+Hypertension: Covered from day one (declared at inception)
+Cardiac conditions: Covered after 2 years waiting period
+Critical illnesses: 40 conditions covered after 90 days
+Age-related conditions: Arthritis, Osteoporosis covered
+COVID-19 and pandemic diseases: Covered
 
-Pre-Existing Diseases (PED) - All Covered (Policy in 7th year):
-- Type 2 Diabetes Mellitus (Declared) - Covered
-- Hypertension (Declared) - Covered
-- Benign Prostatic Hyperplasia (Declared) - Covered
-- Osteoarthritis (Declared) - Covered
-- Cataract (Both eyes) (Declared) - Covered
+6. WAITING PERIOD
+Initial waiting period: 30 days (except accidents)
+Pre-existing diseases: 1 year (reduced for senior citizens)
+Specific diseases: 2 years
+Cataract: 1 year waiting period
 
-================================================================================
-6. WAITING PERIODS
-================================================================================
-Initial Waiting Period: 30 days (Completed)
-Pre-Existing Disease (PED): 3 years (Completed - Policy in 7th year)
-Specific Illnesses: 2 years (Completed)
-  - All specific illness waiting periods completed
+7. COPAYMENT & DEDUCTIBLES
+Copayment: 20% for all claims (Senior citizen policy)
+Voluntary deductible: ₹50,000 (opted for premium discount)
+Room rent capping: ₹10,000 per day
+ICU charges: Up to ₹20,000 per day
 
-Note: All waiting periods have been completed as this is a renewal policy
-in its 7th year.
-
-================================================================================
-7. NOMINEE DETAILS
-================================================================================
-Primary Nominee: Sunita Patel
-Relationship: Spouse
-Date of Birth: 15-May-1958
-Age: 68 years
-Nominee Percentage: 100%
-
-Contingent Nominee: Amit Patel
+8. BENEFICIARY/NOMINEE
+Aditya Sharma (Son)
 Relationship: Son
-Date of Birth: 20-Aug-1982
-Age: 43 years
-Nominee Percentage: 100% (if primary nominee predeceases)
+Date of Birth: 12-Sep-1998
 
-================================================================================
-8. EXCLUSIONS (STANDARD)
-================================================================================
-✗ Self-inflicted injuries and suicide attempts
-✗ Cosmetic or plastic surgery (unless medically necessary)
-✗ Dental treatment (unless due to accident requiring hospitalization)
-✗ Congenital external diseases
-✗ War, invasion, and nuclear risks
-✗ Experimental or unproven treatments
-✗ Obesity and weight control programs
-✗ Infertility treatments
-✗ Hazardous activities and adventure sports
-✗ Substance abuse related conditions
+9. DECLARATION
+I hereby declare that all the information provided in this policy document is true and correct to the best of my knowledge. I have disclosed my pre-existing condition of Stage 2 Hypertension and understand the waiting period and copayment terms. I understand that any misrepresentation or concealment of material facts may render the policy void.
 
-================================================================================
-9. SUB-LIMITS (APPLICABLE)
-================================================================================
-- Cataract Surgery: Rs. 40,000 per eye
-- Joint Replacement: Rs. 1,50,000 per joint
-- Hernia Surgery: Rs. 50,000
-- Piles/Fistula: Rs. 40,000
-- Dialysis: Rs. 3,000 per session
-- Chemotherapy: Rs. 1,00,000 per year
-- Radiotherapy: Rs. 75,000 per year
+This is a system-generated policy document. For any queries, please contact customer care at 1800-425-2255 or visit www.starhealth.in
 
-================================================================================
-10. CLAIM HISTORY
-================================================================================
-Year 2020-21:
-- Claim 1: Rs. 85,000 (Angioplasty) - Settled
-Year 2021-22:
-- Claim 1: Rs. 42,000 (Cataract surgery - Right eye) - Settled
-Year 2022-23:
-- Claim 1: Rs. 38,000 (Cataract surgery - Left eye) - Settled
-Year 2023-24:
-- Claim 1: Rs. 65,000 (Pneumonia hospitalization) - Settled
-Year 2024-25:
-- Claim 1: Rs. 28,000 (Urinary tract infection) - Settled
-Year 2025-26:
-- Claim 1: Rs. 45,000 (Diabetic foot treatment) - Settled
-Current Year (2026-27): Nil
-
-Total Claims Settled: Rs. 3,03,000
-Claim Settlement Ratio: 100%
-
-================================================================================
-11. ADDITIONAL BENEFITS
-================================================================================
-✓ No Claim Bonus: Not applicable (Claims filed every year)
-✓ Automatic Restoration of Sum Insured (Once per year)
-✓ Health Check-up: Annual (Comprehensive package worth Rs. 5,000)
-  - Blood tests (Complete profile)
-  - ECG and ECHO
-  - Chest X-ray
-  - Ultrasound abdomen
-  - Eye examination
-  - Bone density test
-✓ Second Medical Opinion (Domestic and International)
-✓ Worldwide Emergency Cover (30 days)
-✓ Ambulance Cover (Road and Air)
-✓ Daily Cash Allowance: Rs. 500 per day (Max 10 days)
-✓ Tele-consultation: Unlimited (24x7)
-✓ Home Care Treatment: Up to Rs. 15,000
-✓ Physiotherapy at Home: Up to Rs. 10,000
-✓ Nursing at Home: Up to Rs. 15,000 (Post-hospitalization)
-
-================================================================================
-12. SPECIAL FEATURES FOR SENIOR CITIZENS
-================================================================================
-✓ No Medical Tests Required for Renewal
-✓ Lifelong Renewability (No upper age limit)
-✓ Simplified Claim Process
-✓ Dedicated Senior Citizen Helpline
-✓ Home Sample Collection for Health Check-up
-✓ Medication Reminder Service
-✓ Doctor on Call (24x7)
-✓ Caregiver Support
-✓ Wellness Programs and Health Tips
-
-================================================================================
-13. CO-PAYMENT DETAILS
-================================================================================
-Co-payment: 20% (Mandatory for age 71+)
-Applicable on: All claims
-Example: For a claim of Rs. 1,00,000
-  - Insurance pays: Rs. 80,000
-  - Policyholder pays: Rs. 20,000
-
-Note: Co-payment is applied after deducting room rent excess and sub-limits
-
-================================================================================
-14. DECLARATION
-================================================================================
-I hereby declare that:
-1. All information provided in the proposal form and subsequent renewals is true, complete and accurate
-2. I have disclosed all pre-existing diseases, medical conditions, and ongoing treatments
-3. I understand and accept the terms, conditions, exclusions, sub-limits, and co-payment clause
-4. I understand that co-payment of 20% is applicable on all claims
-5. I agree to inform the insurer of any material changes in health status
-6. Any misrepresentation or non-disclosure may lead to claim rejection
-7. I authorize the insurer to obtain medical records from any healthcare provider
-8. I have read and understood the policy wordings
-
-Policyholder Signature: [Digitally Signed]
-Date: 01-Jun-2026
-
-Guardian/Relative Signature: Amit Patel (Son)
-Date: 01-Jun-2026
-
-================================================================================
-15. IMPORTANT NOTES
-================================================================================
-• This is a system-generated policy document for demonstration purposes
-• Please read the policy wordings, terms and conditions carefully
-• For claims assistance: 1800-102-4488 (Toll-free, 24x7)
-• Senior Citizen Helpline: 1800-102-4489
-• Email: seniorcitizen@maxbupa.com
-• Mobile App: Max Bupa Health App
-• Cashless facility available at 6,500+ network hospitals
-• Keep this document, health card, and previous claim documents safe
-• Renewal notice will be sent 45 days before expiry
-• Grace period for premium payment: 30 days
-• Premium may increase with age at renewal
-
-================================================================================
-16. NETWORK HOSPITALS IN JAIPUR
-================================================================================
-Major Network Hospitals:
-- Fortis Escorts Hospital
-- Eternal Heart Care Centre
-- Manipal Hospital
-- Narayana Multispeciality Hospital
-- CK Birla Hospital
-- And 100+ other hospitals in Jaipur
-
-================================================================================
-17. EMERGENCY CONTACTS
-================================================================================
-Policyholder: +91-7XXXXXXXXX
-Son (Amit): +91-9XXXXXXXXX
-Daughter (Priya): +91-8XXXXXXXXX
-Family Doctor: Dr. Suresh Gupta, +91-141-XXXXXXX
-
-================================================================================
-Policy Generated On: 10-Jun-2026
-Document Version: 7.0
-Policy Year: 7th Year (Renewal)
-Previous Policy Numbers: SEN-20-45-678912345 (Original)
-================================================================================
+Date of Issue: 25-Jan-2026
+Place of Issue: Hyderabad

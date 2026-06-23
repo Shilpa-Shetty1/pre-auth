@@ -1,0 +1,77 @@
+HEALTH INSURANCE POLICY SCHEDULE
+Insurer: Bajaj Allianz General Insurance
+Policy Type: Individual Health Guard Plan
+Policy Name: Health Guard Gold
+
+1. POLICY HOLDER DETAILS
+Name: Vikram Patel
+Date of Birth: 30-Jan-1998
+Gender: Male
+Policyholder ID: BAJAJ/IND/HG-10029
+Aadhaar (Masked): XXXX-XXXX-7812
+Address: 156, Satellite Road, Ahmedabad, Gujarat 380015, India
+Mobile: +91-98250-XXXXX
+Email: vikram.patel@email.com
+
+2. POLICY DETAILS
+Policy Number: BAJAJ-GJ-2026-100290567
+Policy Period: 10-Feb-2026 to 09-Feb-2027
+Sum Insured: ₹5,00,000 (Five Lakhs)
+Policy Status: Active
+Renewal Date: 09-Feb-2027
+Restoration Benefit: 100% sum insured restoration once per year
+
+3. PREMIUM DETAILS
+Annual Premium: ₹8,900.00
+Online Discount: -₹445.00
+Net Premium: ₹8,455.00
+GST (18%): ₹1,521.90
+Total Premium Paid: ₹9,976.90
+Payment Mode: Annual
+Payment Date: 05-Feb-2026
+
+4. COVERAGE
+Hospitalization expenses (Room rent up to ₹3,000/day)
+Pre-hospitalization: 60 days, Post-hospitalization: 90 days
+Day care procedures (150+ procedures covered)
+Ambulance charges (up to ₹2,000 per hospitalization)
+Respiratory disease management program
+Asthma care and pulmonary rehabilitation
+Emergency air ambulance (up to ₹50,000)
+Alternative treatment - AYUSH (up to ₹25,000)
+Annual health check-up included
+Telemedicine consultation (unlimited)
+
+5. ILLNESS COVERAGE
+Pre-existing diseases: Covered after 4 years waiting period
+Respiratory conditions (Asthma): Covered after 2 years waiting period
+Critical illnesses: 15 conditions covered after 90 days
+Accidental injuries: Covered from day one
+COVID-19 and pandemic diseases: Covered
+Mental health counseling: Up to 10 sessions per year
+
+6. WAITING PERIOD
+Initial waiting period: 30 days (except accidents)
+Pre-existing diseases: 4 years
+Specific diseases (Asthma, Bronchitis): 2 years
+Critical illnesses: 90 days
+
+7. COPAYMENT & DEDUCTIBLES
+No copayment for network hospitals
+Deductible: Nil
+Room rent capping: ₹3,000 per day
+ICU charges: Up to ₹6,000 per day
+Non-network hospitals: 10% copayment
+
+8. BENEFICIARY/NOMINEE
+Meena Patel (Mother)
+Relationship: Mother
+Date of Birth: 20-Mar-1970
+
+9. DECLARATION
+I hereby declare that all the information provided in this policy document is true and correct to the best of my knowledge. I have disclosed my pre-existing condition of moderate persistent asthma and understand the waiting period terms. I understand that any misrepresentation or concealment of material facts may render the policy void.
+
+This is a system-generated policy document. For any queries, please contact customer care at 1800-209-5858 or visit www.bajajallianz.com
+
+Date of Issue: 05-Feb-2026
+Place of Issue: Ahmedabad

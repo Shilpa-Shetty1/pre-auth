@@ -1,0 +1,80 @@
+HEALTH INSURANCE POLICY SCHEDULE
+Insurer: Max Bupa Health Insurance
+Policy Type: Individual Health Companion Plan
+Policy Name: Health Companion Individual
+
+1. POLICY HOLDER DETAILS
+Name: Meera Reddy
+Date of Birth: 08-Sep-1984
+Gender: Female
+Policyholder ID: MAXBUPA/IND/HC-10030
+Aadhaar (Masked): XXXX-XXXX-4523
+Address: 89/C, Jubilee Hills, Hyderabad, Telangana 500033, India
+Mobile: +91-98490-XXXXX
+Email: meera.reddy@email.com
+
+2. POLICY DETAILS
+Policy Number: MAXBUPA-TG-2026-100301234
+Policy Period: 20-Feb-2026 to 19-Feb-2027
+Sum Insured: ₹12,00,000 (Twelve Lakhs)
+Policy Status: Active
+Renewal Date: 19-Feb-2027
+Cumulative Bonus: 50% (₹6,00,000 additional coverage earned)
+
+3. PREMIUM DETAILS
+Base Annual Premium: ₹24,500.00
+Cumulative Bonus Discount: -₹2,450.00
+Net Premium: ₹22,050.00
+GST (18%): ₹3,969.00
+Total Premium Paid: ₹26,019.00
+Payment Mode: Annual
+Payment Date: 15-Feb-2026
+
+4. COVERAGE
+Hospitalization expenses (Room rent up to ₹6,000/day)
+Pre-hospitalization: 60 days, Post-hospitalization: 180 days
+Day care procedures (400+ procedures covered)
+Ambulance charges (up to ₹3,000 per hospitalization)
+Rheumatology and autoimmune disease management
+Joint replacement and orthopedic procedures
+Physiotherapy and rehabilitation (up to ₹50,000)
+Home care treatment (up to ₹30,000)
+Annual health check-up with rheumatology panel
+Second medical opinion from international experts
+Mental health and wellness counseling
+
+5. ILLNESS COVERAGE
+Pre-existing diseases: Covered after 3 years waiting period
+Rheumatoid Arthritis: Covered after 3 years (declared at inception)
+Autoimmune conditions: Covered after 3 years waiting period
+Critical illnesses: 25 conditions covered after 90 days
+Orthopedic procedures: Covered after 2 years
+COVID-19 and pandemic diseases: Covered
+Chronic disease management program included
+
+6. WAITING PERIOD
+Initial waiting period: 30 days (except accidents)
+Pre-existing diseases: 3 years
+Specific diseases (Arthritis, Joint disorders): 3 years
+Critical illnesses: 90 days
+Maternity: 2 years (if opted)
+
+7. COPAYMENT & DEDUCTIBLES
+No copayment for network hospitals
+Deductible: Nil
+Room rent capping: ₹6,000 per day
+ICU charges: Up to ₹12,000 per day
+Non-network hospitals: 20% copayment
+
+8. BENEFICIARY/NOMINEE
+Karthik Reddy (Spouse)
+Relationship: Husband
+Date of Birth: 15-Dec-1982
+
+9. DECLARATION
+I hereby declare that all the information provided in this policy document is true and correct to the best of my knowledge. I have disclosed my pre-existing condition of Rheumatoid Arthritis diagnosed in 2023 and understand the waiting period terms. I am currently on methotrexate therapy and have disclosed all relevant medical history. I understand that any misrepresentation or concealment of material facts may render the policy void.
+
+This is a system-generated policy document. For any queries, please contact customer care at 1800-102-4488 or visit www.maxbupa.com
+
+Date of Issue: 15-Feb-2026
+Place of Issue: Hyderabad
